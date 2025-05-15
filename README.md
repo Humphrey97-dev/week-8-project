@@ -16,15 +16,15 @@ This project implements a fully relational database management system for a Clin
 
 ![Clinic Booking System ERD](file:///C:/PLP%20CODE/DATABASE/WEEK%208/ERD.png)
 
-*Note:* The above image is located at `C:\PLP CODE\DATABASE\WEEK 8\ERD.png` 
+*Note:* The above image is located at `C:\PLP CODE\DATABASE\WEEK 8\ERD.png` as in our png file.
 
 ---
 
 ### Repository Contents
-- `clinic_booking_system.sql` — SQL script to create the database schema.
+- `clinic_booking.sql` — SQL script to create the database schema.
 - `README.md` — Project documentation.
 - `images/ERD.png` — Entity-Relationship Diagram image file.
 
 ---
 
-*For questions or assistance, please contact: [Your Email or GitHub profile]*
+*For questions or assistance, please contact: [wambuhumphrey@gmail.com]*
